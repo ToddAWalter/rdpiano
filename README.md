@@ -1,3 +1,9 @@
+# IMPORTANT NOTE
+
+This project is staying here for archival purposes, since it documents how the original chips work with silicon traces and verilog code.
+
+The actual audio plugin, though, is gonna be moved soon to the [Gearmulator project](https://github.com/dsp56300/gearmulator).
+
 # RdPiano [![RdPiano](https://github.com/giulioz/rdpiano/actions/workflows/main.yml/badge.svg)](https://github.com/giulioz/rdpiano/actions/workflows/main.yml)
 
 RdPiano accurately emulates SA-synthesis digital pianos, such as the Roland MKS-20, RD1000 and the Rhodes MK-80 electric piano.
